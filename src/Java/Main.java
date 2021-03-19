@@ -7,5 +7,8 @@ public class Main {
         MyClass object = new MyClass("Ana", "Ion");
 
         System.out.println(object);
+
+        System.out.println("Ana are mere");
+
     }
 }

@@ -13,7 +13,7 @@ public class Main {
 
         System.out.println("Ana are mere");
 
-        System.out.println("Ana are pere");
+        System.out.println("Ana are peyufjtdshgsfdre");
 
 
         System.out.println(object);
